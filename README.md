@@ -9,10 +9,7 @@ SUBMITTED BY
  
 [Mujtaba Ahmed]
 SP20-BSE-079
-[Umair Arshad]
-SP20-BSE-097
-[Zeeshan Fareed]
-SP20-BSE-101
+
  
  
 GITHUB LINK
